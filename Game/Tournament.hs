@@ -64,10 +64,10 @@ module Game.Tournament (
    , GroupSize
    , Advancers
 
-   --, Game(..)
-   --, Player
+   , Game(..)
+   , Player
 
-   --, Games
+   , Games
 
    -- * Tournament Interface
    , tournament

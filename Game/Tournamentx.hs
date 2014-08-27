@@ -33,7 +33,7 @@
 -- but hopefully in such a way it can be safely serialized to DBs.
 -----------------------------------------------------------------------------
 
-module Game.Tournament (
+module Game.Tournamentx (
    -- * Building Block A: Duel helpers
      seeds
    , duelExpected

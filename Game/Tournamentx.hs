@@ -58,7 +58,7 @@ module Game.Tournamentx (
 
    , Size
 
-   , Tournament -- no constructor
+   , Tournament (..) -- no constructor, fts
    , Score
 
    , GroupSize
